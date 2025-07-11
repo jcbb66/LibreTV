@@ -24,7 +24,7 @@ const SITE_CONFIG = {
 const API_SITES = {
     dyttzy: {
         api: 'http://caiji.dyttzyapi.com/api.php/provide/vod',
-        name: '电影天堂资源',
+        name: '电影天堂',
         detail: 'http://caiji.dyttzyapi.com', 
     },
     ruyi: {
@@ -67,7 +67,7 @@ const API_SITES = {
     }, 
     hwba: {
         api: 'https://cjhwba.com/api.php/provide/vod',
-        name: '华为吧资源',
+        name: '华为资源',
     },
     jisu: {
         api: 'https://jszyapi.com/api.php/provide/vod',
@@ -96,7 +96,7 @@ const API_SITES = {
     },
     baidu: {
         api: 'https://api.apibdzy.com/api.php/provide/vod',
-        name: '百度云资源'
+        name: '百度资源'
     },
     wujin: {
         api: 'https://api.wujinapi.me/api.php/provide/vod',
